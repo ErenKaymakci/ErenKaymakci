@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Eren</h1>
 <h3 align="center">A computer engineer student who is interested in AI,robotics</h3>
 
-- 🔭 I’m currently working on **Machine learning**
-
 - 🌱 I’m currently learning **Neural networks, pytorch**
 
 - 📫 How to reach me **erenkaymakcii@outlook.com**
