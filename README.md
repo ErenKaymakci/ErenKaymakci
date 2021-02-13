@@ -1,6 +1,6 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Eren</h1>
-<h3 align="center">A computer engineer student who is interested in AI,robotics</h3>
+<h3 align="center">A computer engineer student who is interested in ml , robotics</h3>
 
 - 🌱 I’m currently learning **Neural networks, pytorch**
 
