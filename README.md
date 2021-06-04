@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Eren</h1>
-<h3 align="center">A computer engineer student who is interested in machine learning , robotics</h3>
+<h3 align="center">A computer engineer student who is interested in machine learning , computer vision</h3>
 
 - 🌱 I’m currently learning **pytorch**
 
