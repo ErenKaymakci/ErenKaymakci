@@ -2,8 +2,8 @@
 <h1 align="center">Hi 👋, I'm Eren</h1>
 <h3 align="center">A computer engineer student who is interested in machine learning , computer vision</h3>
 <div align="center">
-  <li>🌱 I’m currently learning <a href="https://pytorch.org/"><strong>PyTorch</strong></a></li>
-	<li>📫 How to reach me <strong>erenkaymakcii@outlook.com</strong> </li>
+  <h4>🌱 I’m currently learning <a href="https://pytorch.org/"><strong>PyTorch</strong></a></h4>
+	<h4>📫 How to reach me <strong>erenkaymakcii@outlook.com</strong> </h4>
  
 </div>
 
