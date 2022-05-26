@@ -3,6 +3,7 @@
 <h3 align="center">A computer engineer student who is interested in machine learning , computer vision</h3>
 <div align="center">
   <h3>🌱 I’m currently learning <a href="https://pytorch.org/"><strong>PyTorch</strong></a></h3>
+	<h3>📃 I'm writing articles at <a href="https://medium.com/@ErenKaymakci"><strong>Medium</strong></a></h3>
 	<h3>📫 How to reach me <strong>erenkaymakcii@outlook.com</strong> </h3>
  
 </div>
