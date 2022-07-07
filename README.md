@@ -4,7 +4,7 @@
   <h3> <i> A computer engineer student who is interested in machine learning , computer vision </i></h3>
   <br>
 
-   🌱 I'm currently working on <s><a href="https://www.ithinka.com/"><strong>Ithinka Innovation</strong></a></s>
+   🌱 I'm currently working as Computer Vision Engineer on <a href="https://www.renaultgroup.com/en/"><strong>Renault Group</strong></a>
    
    📃 I'm writing articles at <a href="https://medium.com/@ErenKaymakci"><strong>Medium</strong></a>
    
