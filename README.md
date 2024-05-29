@@ -6,7 +6,7 @@
 
    🌱 I'm currently working as Computer Vision Engineer at <a href="https://www.bosch-home.com.tr/"><strong>Bosch</strong></a>
    
-   📃 I'm writing articles at <a href="https://medium.com/@ErenKaymakci"><strong>Medium</strong></a>
+   📃 I'm writing articles at <a href="https://medium.com/@ErenKaymakci"><strong>Medium</strong></a> and <a href="https://ieeexplore.ieee.org/document/10310562"><strong>IEEEXplore</strong></a>
    
    📫 How to reach me <strong>erenkaymakcii@outlook.com</strong> 
  
