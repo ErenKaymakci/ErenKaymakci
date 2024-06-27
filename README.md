@@ -1,7 +1,7 @@
 
 <div align="center">
   <h1>Hi 👋, I'm Eren</h1>
-  <h3> <i> A computer engineer student who is interested in computer vision, robotics </i></h3>
+  <h3> <i> A computer engineer who is interested in computer vision, robotics </i></h3>
   <br>
 
    🌱 I'm currently working as Computer Vision Engineer at <a href="https://www.bosch-home.com.tr/"><strong>Bosch</strong></a>
